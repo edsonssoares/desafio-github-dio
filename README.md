@@ -1,5 +1,5 @@
 # Desafio do Projeto sobre GIT/GITHUB
-Repositório criado para o Primeiro Desafio de Projeto.
+Repositório criado para o Primeiro Desafio do Projeto.
 
 ## Bootcamp Dio Santander Fullstack Developer 
 
